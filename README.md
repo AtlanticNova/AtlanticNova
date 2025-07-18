@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Martinus Andika Novanawa, a Computer Science graduate with two years of experience as an iOS Developer 📱. I'm a highly motivated and proactive professional, always ready to take initiative and lead. 🚀
+
+Throughout my career, I've actively contributed to various projects, including the development of mobile banking applications. This work has given me valuable experience in building secure and user-friendly platforms. I also refined my expertise by attending the Apple Developer Academy, solidifying my practical, hands-on experience in iOS app development across diverse domains. I'm truly passionate about crafting impactful mobile applications and I'm eager to continue leveraging my skills in the dynamic world of tech! ✨
 
 ## 🌐 Socials:
 
